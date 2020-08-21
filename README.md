@@ -1,2 +1,2 @@
 # hello-world
-Creating my first repository
+I'm a physics student
